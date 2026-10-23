@@ -1,0 +1,26 @@
+curl -s https://api.github.com/repos/sumit21012006/expressBookReviews
+{
+  "id": 1133445566,
+  "name": "expressBookReviews",
+  "full_name": "sumit21012006/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "sumit21012006",
+    "id": 149495085,
+    "type": "User"
+  },
+  "html_url": "https://github.com/sumit21012006/expressBookReviews",
+  "fork": true,
+  "url": "https://api.github.com/repos/sumit21012006/expressBookReviews",
+  "parent": {
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "default_branch": "main"
+}
