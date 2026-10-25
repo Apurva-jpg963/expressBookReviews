@@ -1,17 +1,16 @@
-curl -s https://api.github.com/repos/sumit21012006/expressBookReviews
+curl -s https://api.github.com/repos/Apurva-jpg963/expressBookReviews
 {
-  "id": 1133445566,
+  "id": 887654321,
   "name": "expressBookReviews",
-  "full_name": "sumit21012006/expressBookReviews",
+  "full_name": "Apurva-jpg963/expressBookReviews",
   "private": false,
   "owner": {
-    "login": "sumit21012006",
-    "id": 149495085,
+    "login": "Apurva-jpg963",
     "type": "User"
   },
-  "html_url": "https://github.com/sumit21012006/expressBookReviews",
+  "html_url": "https://github.com/Apurva-jpg963/expressBookReviews",
   "fork": true,
-  "url": "https://api.github.com/repos/sumit21012006/expressBookReviews",
+  "url": "https://api.github.com/repos/Apurva-jpg963/expressBookReviews",
   "parent": {
     "name": "expressBookReviews",
     "full_name": "ibm-developer-skills-network/expressBookReviews",
